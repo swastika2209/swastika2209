@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Swastika
 
-<!--
-**swastika2209/swastika2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About Me
+I'm an IT student currently exploring the world of software development.  
+I enjoy transforming ideas into simple, functional, and refined web experiences.  
+At present, I am focused on strengthening my web development fundamentals and enhancing my problem-solving abilities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- Build strong frontend development fundamentals  
+- Improve problem-solving skills and consistency in coding  
+- Embrace progress over perfection  
+
+---
+
+## 🌱 Current Focus
+Strengthening core development fundamentals through hands-on projects and continuous practice.
+
+---
+
+📧 Email: swastikaambasta@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
+
